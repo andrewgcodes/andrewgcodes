@@ -1,6 +1,7 @@
 - 👋 I'm studying Computer Science at Stanford.
 - Recent projects
    - [lightspeedGPT](https://github.com/andrewgcodes/lightspeedGPT) **200+ stars, Top 10 Python Repos of the Week**
+   - [Lily AI](https://meetlily.ai/) Conversational AI site with 5,000 users, with Andrew Park
    - [On the Origin of LLMs: Hierarchical Evolutionary Tree of AI models](https://huggingface.co/papers/2307.09793) **#1 Daily Paper on Hugging Face**
    - [BibleGPT](https://biblegpt.org/) One of the first-ever RAG demos
    - [ZAP](https://www.getzap.org/) **#3 of the day on Product Hunt**
